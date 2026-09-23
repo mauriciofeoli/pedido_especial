@@ -1,15 +1,15 @@
 # Pedido Especial
 
-Projeto pessoal criado para celebrar um momento especial com uma mensagem personalizada.
+Página interativa desenvolvida para apresentar uma mensagem personalizada em um momento especial.
 
-## Sobre
+## Visão geral
 
-Uma página simples, bonita e emocional, desenvolvida com HTML, CSS e JavaScript para criar uma experiência mais íntima e memorável.
+Este projeto é uma landing page simples, construída com HTML, CSS e JavaScript, com foco em apresentação visual e interação básica.
 
 ## Arquivos principais
 
-- `index.html` — estrutura e conteúdo principal da página;
-- `img/` — imagens usadas no projeto.
+- `index.html` — estrutura principal da página;
+- `img/` — imagens utilizadas no projeto.
 
 ## Tecnologias
 
