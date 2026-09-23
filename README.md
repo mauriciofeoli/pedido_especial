@@ -1,21 +1,19 @@
 # Pedido Especial
 
-Projeto simples de página web criada para um pedido especial e uma mensagem romântica.
+Projeto pessoal criado para celebrar um momento especial com uma mensagem personalizada.
 
-## Objetivo
+## Sobre
 
-- criar uma página visualmente simples e emocional;
-- apresentar uma mensagem personalizada;
-- usar HTML, CSS e JavaScript para interação básica.
+Uma página simples, bonita e emocional, desenvolvida com HTML, CSS e JavaScript para criar uma experiência mais íntima e memorável.
 
-## Arquivo principal
+## Arquivos principais
 
-- `index.html` — página principal do projeto.
+- `index.html` — estrutura e conteúdo principal da página;
+- `img/` — imagens usadas no projeto.
 
-## Conteúdo
+## Tecnologias
 
-- mensagem de carinho;
-- botão interativo;
-- imagem de destaque;
-- animação simples com JavaScript.
+- HTML
+- CSS
+- JavaScript
 
